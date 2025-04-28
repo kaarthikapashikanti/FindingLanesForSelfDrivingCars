@@ -35,8 +35,10 @@ Clone the repository:
 
 
 
-git clone https://github.com/your-username/FindingLanesForSelfDrivingCars.git
+git clone https://github.com/kaarthikapashikanti/FindingLanesForSelfDrivingCars.git
+
 cd FindingLanesForSelfDrivingCars
+
 Install dependencies:
 
 
